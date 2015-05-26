@@ -1,0 +1,6 @@
+#################
+## Unreal Engine 4
+#################
+
+# Ignore autosaves and backups
+Saved/*
